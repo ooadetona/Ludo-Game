@@ -1,0 +1,16 @@
+Requirements for a Ludo Game
+
+Display:
+GUI-Tkinter,Pygame
+
+Libraries:
+NumPy
+Pillow
+requests( Online features)
+
+Mobile app deployment
+
+Game script:
+
+VS CODE
+
