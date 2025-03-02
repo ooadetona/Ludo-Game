@@ -14,3 +14,21 @@ Game script:
 
 VS CODE
 
+
+
+#Update task
+
+Read up on SRS documentation. 
+
+Purpose 
+Guides the development team in building the software
+Outlines the project scope and objectives
+Defines the externally visible behavior of the system
+Key components 
+Introduction
+Overall description
+Functionality
+Platform
+Development responsibilities
+User class and characteristics
+System features and requirements
